@@ -1,6 +1,6 @@
 #### Hi there! I'am Fajar Sujai 👋
 
-[![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&count_private=true)](https://github.com/ridhomujizat)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&count_private=true)](https://github.com/fajarsujai)
 
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/QVreOR83Fgr67g2WFJ/giphy.gif" />
 
