@@ -1,4 +1,4 @@
-#### Hi there! I'am Ridho 👋
+#### Hi there! I'am Fajar Sujai 👋
 
 [![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&count_private=true)](https://github.com/ridhomujizat)
 
