@@ -5,7 +5,7 @@
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/QVreOR83Fgr67g2WFJ/giphy.gif" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajar-sujai-368569199/)](https://www.linkedin.com/in/fajar-sujai-368569199/)
-[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=Google-Chrome&logoColor=white&link=https://fajarsujai.github.io)](https://fajarsujai.github.io)
+[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=Google-Chrome&logoColor=white&link=https://fajarsujai.github.io)](https://fajarsujai.wordpress.com)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fajar.s.fratama@gmail.com)](mailto:fajar.s.fratama@gmail.com)
 
 ## I'am DevOps Engineer. 
